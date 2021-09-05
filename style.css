@@ -46,6 +46,7 @@
 .team_profiles {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   padding: 40px 15px;
 }
